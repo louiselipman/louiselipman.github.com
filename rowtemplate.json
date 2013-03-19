@@ -1,0 +1,11 @@
+{"type":"container","tag":"div","object":"this","classes":["imgRow"],"ids":null,"children":[
+	{"type":"container","tag":"div","object":"this","classes":["leftImg"],"ids":null,"children":[
+		{"type":"img","url":".jpg","object":"this","alt":"TITLE by ARTIST","classes":["presImg"],"ids":null}
+	]},
+	{"type":"container","tag":"div","object":"this","classes":["middleImg"],"ids":null,"children":[
+		{"type":"img","url":".jpg","object":"this","alt":"TITLE by ARTIST","classes":["presImg"],"ids":null}
+	]},
+	{"type":"container","tag":"div","object":"this","classes":["rightImg"],"ids":null,"children":[
+		{"type":"img","url":".jpg","object":"this","alt":"TITLE by ARTIST","classes":["presImg"],"ids":null}
+	]}
+]}
