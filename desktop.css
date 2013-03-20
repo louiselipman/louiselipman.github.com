@@ -89,17 +89,18 @@ img {
 .leftImg, .middleImg, .rightImg {
 	text-align: center;
 	width: 33%;
-}
-
-.imgRow < .leftImg {
-	float: left;
-}
-
-.imgRow < .middleImg {
 	margin: auto;
 }
 
-.imgRow < .rightImg {
+.imgRow > .leftImg {
+	float: left;
+}
+
+.imgRow > .middleImg {
+	float: center;
+}
+
+.imgRow > .rightImg {
 	float: right;
 }
 
