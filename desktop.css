@@ -89,6 +89,7 @@ img {
 .leftImg, .middleImg, .rightImg {
 	text-align: center;
 	width: 33%;
+	margin: auto;
 }
 
 .imgRow > .leftImg {
@@ -96,7 +97,6 @@ img {
 }
 
 .imgRow > .middleImg {
-	float: center;
 }
 
 .imgRow > .rightImg {
