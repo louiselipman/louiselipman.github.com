@@ -97,10 +97,11 @@ img {
 }
 
 .imgRow > .middleImg {
+	float: right;
 }
 
 .imgRow > .rightImg {
-	float: right;
+	float: center;
 }
 
 .section {
