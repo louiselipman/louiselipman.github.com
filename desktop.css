@@ -92,14 +92,17 @@ img {
 
 .imgRow < .leftImg {
 	float: left;
+	width: 33%;
 }
 
 .imgRow < .middleImg {
 	float: center;
+	width: 33%;
 }
 
 .imgRow < .rightImg {
 	float: right;
+	width: 33%;
 }
 
 .section {
